@@ -1,0 +1,9 @@
+{
+  "Weather": "App clima",
+  "Maximum": "Temperatura Maxima",
+  "Minimum": "Temperatura Minima",
+  "wind": "Sensación térmica",
+  "to": "Buscar",
+  "city": "Ecribir nombre de la ciudad",
+  "not": "Ciudad no encontrada"
+}
